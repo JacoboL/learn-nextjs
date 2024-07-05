@@ -1,9 +1,3 @@
-import React from 'react'
-
-function Page() {
-  return (
-    <div>Customers Page</div>
-  )
-}
-
-export default Page
+export default function Page() {
+    return <p>Customers Page</p>;
+  }
